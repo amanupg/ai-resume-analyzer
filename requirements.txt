@@ -1,0 +1,16 @@
+PyMuPDF
+spacy
+sentence-transformers
+torch
+librosa
+openai-whisper
+mediapipe
+deepface
+streamlit
+scikit-learn
+numpy
+pandas
+opencv-python
+pdfplumber
+tqdm
+transformers
