@@ -35,7 +35,8 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
-##Usage
+## Usage
+
 1. Run the dashboard:
 ```bash
 streamlit run src/dashboard.py
@@ -44,6 +45,6 @@ streamlit run src/dashboard.py
 3. Upload a job description in plain text.
 4. (Optional) Upload a video interview to generate transcript.
 
-##Future work
+## Future work
 !!This project is a work in progress, with many more feature additions ongoing!!
 
