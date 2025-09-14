@@ -1,0 +1,22 @@
+Computer Vision Intern – Summer 2025
+
+We are seeking a highly motivated Computer Vision Intern to join our AI research team. 
+The intern will work on developing deep learning models for image classification, object detection, and image segmentation.
+
+Responsibilities:
+- Implement and optimize computer vision algorithms
+- Work with large image datasets and perform data preprocessing
+- Assist in training and evaluating deep learning models
+- Collaborate with research engineers and contribute to experiments
+
+Requirements:
+- Strong understanding of machine learning and computer vision
+- Experience with Python, PyTorch or TensorFlow
+- Familiarity with OpenCV and image processing techniques
+- Knowledge of CNNs, transfer learning, and evaluation metrics
+- Strong problem-solving and communication skills
+
+Preferred:
+- Experience with YOLO, Faster R-CNN, or segmentation models
+- Familiarity with cloud platforms (AWS, GCP) and MLOps tools
+- Previous research or project experience in computer vision
