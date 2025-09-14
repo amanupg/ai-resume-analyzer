@@ -46,5 +46,5 @@ streamlit run src/dashboard.py
 4. (Optional) Upload a video interview to generate transcript.
 
 ## Future work
-!!This project is a work in progress, with many more feature additions ongoing!!
+!!This project is a work in progress, with many more features being added.!!
 
